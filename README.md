@@ -18,6 +18,8 @@ Make sure you have Python installed on your machine. You can download it from [h
 
 ### Installing the Required Libraries
 
+
+
 1. Clone this repository to your local machine.
 2. Open a terminal or command prompt and navigate to the project directory.
 3. Install the required Python libraries by running:
